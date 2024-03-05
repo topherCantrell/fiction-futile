@@ -1,12 +1,12 @@
 Chapter 1
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ladies and Gentlemen, how can one man accidentally destroy a million worlds? I had help. Those countless deaths are ultimately on my shoulders, but many other people share the blame, as you will see. Please hear my story and heed my warning. I do not want to add your deaths to my growing list.
+|    Ladies and Gentlemen, how can one man accidentally destroy a million worlds? I had help. Those countless deaths are ultimately on my shoulders, but many other people share the blame, as you will see. Please hear my story and heed my warning. I do not want to add your deaths to my growing list.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Blame my college professors for teaching me to be a computer genius. Without their teaching, I could never have developed such a perfect computer virus. Blame my college roommate for doubting my programming ability, and blame him for daring me to put my virus on a lab computer. I remember sitting in Dean Ray’s office the next week trying to deny my involvement.
+Blame my college professors for teaching me to be a computer genius. Without their teaching, I could never have developed such a perfect computer virus. Blame my college roommate for doubting my programming ability, and blame him for daring me to put my virus on a lab computer. I remember sitting in Dean Ray’s office the next week trying to deny my involvement.
 
-&nbsp;&nbsp;&nbsp;&nbsp;“Your virus has single-handedly crippled every computer system on campus.”
+“Your virus has single-handedly crippled every computer system on campus.”
 
-&nbsp;&nbsp;&nbsp;&nbsp;“But I didn’t do it.”
+“But I didn’t do it.”
 
 “Grades and student records – all gone. You were lucky our network administrator disconnected us from the Internet in time. Who knows what damage you might have been liable for had that virus escaped. As it is, we are shutting down the entire campus for a month to clean up the mess. Do you have any idea how much trouble you have created here? You are lucky we are only kicking you out of school.”
 
