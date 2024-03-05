@@ -1,7 +1,6 @@
 Chapter 1
 
-|    Ladies and Gentlemen, how can one man accidentally destroy a million worlds? I had help. Those countless deaths are ultimately on my shoulders, but many other people share the blame, as you will see. Please hear my story and heed my warning. I do not want to add your deaths to my growing list.
-
+Ladies and Gentlemen, how can one man accidentally destroy a million worlds? I had help. Those countless deaths are ultimately on my shoulders, but many other people share the blame, as you will see. Please hear my story and heed my warning. I do not want to add your deaths to my growing list.
 Blame my college professors for teaching me to be a computer genius. Without their teaching, I could never have developed such a perfect computer virus. Blame my college roommate for doubting my programming ability, and blame him for daring me to put my virus on a lab computer. I remember sitting in Dean Ray’s office the next week trying to deny my involvement.
 
 “Your virus has single-handedly crippled every computer system on campus.”
